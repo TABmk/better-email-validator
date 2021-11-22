@@ -1,0 +1,32 @@
+{
+  "devDependencies": {
+    "@types/node": "^16.11.9",
+    "@typescript-eslint/eslint-plugin": "^5.4.0",
+    "eslint": "^8.3.0",
+    "eslint-config-airbnb-base": "^15.0.0",
+    "eslint-config-airbnb-typescript": "^16.0.0",
+    "eslint-plugin-import": "^2.25.3",
+    "typescript": "^4.5.2"
+  },
+  "scripts": {
+    "build": "tsc index.ts",
+    "example": "tsc example.ts && node example.js"
+  },
+  "name": "better-email-validator",
+  "version": "1.0.0",
+  "description": "Zero dependency email validator with extra features",
+  "main": "index.ts",
+  "types": "index.d.ts",
+  "repository": "git@github.com:TABmk/better-email-validator.git",
+  "author": "TAB_mk <tabmk.contact@gmail.com>",
+  "license": "MIT",
+  "keywords": [
+    "email",
+    "validation",
+    "validator",
+    "validate",
+    "email validation",
+    "email validator",
+    "email validate"
+  ]
+}

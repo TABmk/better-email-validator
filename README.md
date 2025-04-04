@@ -55,11 +55,11 @@ yarn add better-email-validator
 
 ### Import
 ```
-import { RFC5322, RFC822 EmailValidator } from 'better-email-validator';
+import { RFC5322, RFC822, EmailValidator } from 'better-email-validator';
 
     or
 
-const { RFC5322, RFC822 EmailValidator } = require('better-email-validator');
+const { RFC5322, RFC822, EmailValidator } = require('better-email-validator');
 ```
 
 ### RFC
